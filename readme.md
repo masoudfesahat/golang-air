@@ -17,13 +17,13 @@ Follow these simple steps to run your GoLang project with live reloading:
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/Your-Username/Your-Project.git
+   git clone https://github.com/masoudfesahat/golang-air.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Your-Project
+   cd myapp
    ```
 
 3. Start the development environment using Docker Compose:
@@ -49,20 +49,16 @@ We welcome contributions to improve this project. If you'd like to contribute, p
 5. Push the changes to your fork on GitHub.
 6. Submit a Pull Request to merge your changes.
 
-## License
-
-This project is licensed under the [License Name]. For more details, please see the LICENSE file.
-
 ## Contact
 
 If you have questions or feedback, feel free to reach out to us:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email Address]
+- **Name**: Masoud Fesahat
+- **Email**: masoudfesahat@gmail.com
 
 ## Issues and Bug Reports
 
-If you encounter any issues or have suggestions for improvement, please create an Issue report on the [Issue Page](https://github.com/Your-Username/Your-Project/issues).
+If you encounter any issues or have suggestions for improvement, please create an Issue report on the [Issue Page](https://github.com/masoudfesahat/golang-air/issues).
 
 ---
 [Link to your website or GitHub profile]
