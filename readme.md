@@ -23,7 +23,7 @@ Follow these simple steps to run your GoLang project with live reloading:
 2. Navigate to the project directory:
 
    ```bash
-   cd myapp
+   cd golang-air
    ```
 
 3. Start the development environment using Docker Compose:
@@ -38,16 +38,6 @@ Follow these simple steps to run your GoLang project with live reloading:
 
 Your GoLang application is now running with live reloading enabled. You can start making changes to your code, and the changes will be automatically reflected in your running application.
 
-## Contributing
-
-We welcome contributions to improve this project. If you'd like to contribute, please follow these steps:
-
-1. Fork the project (click the Fork button at the top of the page).
-2. Clone your forked repository to your computer.
-3. Create a new branch for making changes.
-4. Make and commit your changes to the new branch.
-5. Push the changes to your fork on GitHub.
-6. Submit a Pull Request to merge your changes.
 
 ## Contact
 
@@ -59,9 +49,3 @@ If you have questions or feedback, feel free to reach out to us:
 ## Issues and Bug Reports
 
 If you encounter any issues or have suggestions for improvement, please create an Issue report on the [Issue Page](https://github.com/masoudfesahat/golang-air/issues).
-
----
-[Link to your website or GitHub profile]
-```
-
-Please customize this template by replacing `[License Name]`, `Your-Username`, `Your-Project`, and other placeholders with your actual information. You can also add more detailed instructions if needed.
